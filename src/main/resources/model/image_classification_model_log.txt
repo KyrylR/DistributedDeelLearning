@@ -1,0 +1,3097 @@
+
+Epoch: 0
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.6282
+ Precision:       1.0000
+ Recall:          0.0085
+ F1 Score:        0.0169
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 390   0 | 0 = COVID
+ 232   2 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 1
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.8157
+ Precision:       0.8521
+ Recall:          0.6154
+ F1 Score:        0.7146
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 365  25 | 0 = COVID
+  90 144 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 2
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7228
+ Precision:       0.9178
+ Recall:          0.2863
+ F1 Score:        0.4365
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 384   6 | 0 = COVID
+ 167  67 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 3
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.8061
+ Precision:       0.8466
+ Recall:          0.5897
+ F1 Score:        0.6952
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 365  25 | 0 = COVID
+  96 138 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 4
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.6651
+ Precision:       0.9310
+ Recall:          0.1154
+ F1 Score:        0.2053
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 388   2 | 0 = COVID
+ 207  27 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 5
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7308
+ Precision:       0.9342
+ Recall:          0.3034
+ F1 Score:        0.4581
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 385   5 | 0 = COVID
+ 163  71 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 6
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7869
+ Precision:       0.8976
+ Recall:          0.4872
+ F1 Score:        0.6316
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 377  13 | 0 = COVID
+ 120 114 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 7
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.8045
+ Precision:       0.8684
+ Recall:          0.5641
+ F1 Score:        0.6839
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 370  20 | 0 = COVID
+ 102 132 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 8
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.8061
+ Precision:       0.8742
+ Recall:          0.5641
+ F1 Score:        0.6857
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 371  19 | 0 = COVID
+ 102 132 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 9
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7276
+ Precision:       0.9571
+ Recall:          0.2863
+ F1 Score:        0.4408
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 387   3 | 0 = COVID
+ 167  67 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 10
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7949
+ Precision:       0.9206
+ Recall:          0.4957
+ F1 Score:        0.6444
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 380  10 | 0 = COVID
+ 118 116 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 11
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7292
+ Precision:       0.9851
+ Recall:          0.2821
+ F1 Score:        0.4385
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 389   1 | 0 = COVID
+ 168  66 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 12
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7308
+ Precision:       0.9459
+ Recall:          0.2991
+ F1 Score:        0.4545
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 386   4 | 0 = COVID
+ 164  70 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 13
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.8109
+ Precision:       0.9265
+ Recall:          0.5385
+ F1 Score:        0.6811
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 380  10 | 0 = COVID
+ 108 126 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 14
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7981
+ Precision:       0.8857
+ Recall:          0.5299
+ F1 Score:        0.6631
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 374  16 | 0 = COVID
+ 110 124 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 15
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7676
+ Precision:       0.9684
+ Recall:          0.3932
+ F1 Score:        0.5593
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 387   3 | 0 = COVID
+ 142  92 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 16
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7260
+ Precision:       0.9846
+ Recall:          0.2735
+ F1 Score:        0.4281
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 389   1 | 0 = COVID
+ 170  64 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 17
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.8173
+ Precision:       0.8846
+ Recall:          0.5897
+ F1 Score:        0.7077
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 372  18 | 0 = COVID
+  96 138 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 18
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7484
+ Precision:       0.9753
+ Recall:          0.3376
+ F1 Score:        0.5016
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 388   2 | 0 = COVID
+ 155  79 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 19
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.8205
+ Precision:       0.8961
+ Recall:          0.5897
+ F1 Score:        0.7113
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 374  16 | 0 = COVID
+  96 138 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 20
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.8093
+ Precision:       0.9259
+ Recall:          0.5342
+ F1 Score:        0.6775
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 380  10 | 0 = COVID
+ 109 125 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 21
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7404
+ Precision:       1.0000
+ Recall:          0.3077
+ F1 Score:        0.4706
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 390   0 | 0 = COVID
+ 162  72 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 22
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7131
+ Precision:       1.0000
+ Recall:          0.2350
+ F1 Score:        0.3806
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 390   0 | 0 = COVID
+ 179  55 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 23
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.6747
+ Precision:       1.0000
+ Recall:          0.1325
+ F1 Score:        0.2340
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 390   0 | 0 = COVID
+ 203  31 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 24
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.8526
+ Precision:       0.8817
+ Recall:          0.7009
+ F1 Score:        0.7810
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 368  22 | 0 = COVID
+  70 164 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 25
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.8253
+ Precision:       0.9252
+ Recall:          0.5812
+ F1 Score:        0.7139
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 379  11 | 0 = COVID
+  98 136 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 26
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7452
+ Precision:       0.9870
+ Recall:          0.3248
+ F1 Score:        0.4887
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 389   1 | 0 = COVID
+ 158  76 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 27
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.8301
+ Precision:       0.9267
+ Recall:          0.5940
+ F1 Score:        0.7240
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 379  11 | 0 = COVID
+  95 139 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 28
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.8013
+ Precision:       0.9435
+ Recall:          0.5000
+ F1 Score:        0.6536
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 383   7 | 0 = COVID
+ 117 117 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 29
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7228
+ Precision:       1.0000
+ Recall:          0.2607
+ F1 Score:        0.4136
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 390   0 | 0 = COVID
+ 173  61 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 30
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7901
+ Precision:       0.9640
+ Recall:          0.4573
+ F1 Score:        0.6203
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 386   4 | 0 = COVID
+ 127 107 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 31
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7212
+ Precision:       1.0000
+ Recall:          0.2564
+ F1 Score:        0.4082
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 390   0 | 0 = COVID
+ 174  60 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 32
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7083
+ Precision:       1.0000
+ Recall:          0.2222
+ F1 Score:        0.3636
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 390   0 | 0 = COVID
+ 182  52 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 33
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.8141
+ Precision:       0.9538
+ Recall:          0.5299
+ F1 Score:        0.6813
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 384   6 | 0 = COVID
+ 110 124 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 34
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7788
+ Precision:       0.9706
+ Recall:          0.4231
+ F1 Score:        0.5893
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 387   3 | 0 = COVID
+ 135  99 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 35
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.8125
+ Precision:       0.9756
+ Recall:          0.5128
+ F1 Score:        0.6723
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 387   3 | 0 = COVID
+ 114 120 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 36
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7452
+ Precision:       1.0000
+ Recall:          0.3205
+ F1 Score:        0.4854
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 390   0 | 0 = COVID
+ 159  75 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 37
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7788
+ Precision:       0.9706
+ Recall:          0.4231
+ F1 Score:        0.5893
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 387   3 | 0 = COVID
+ 135  99 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 38
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7612
+ Precision:       1.0000
+ Recall:          0.3632
+ F1 Score:        0.5329
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 390   0 | 0 = COVID
+ 149  85 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 39
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.8205
+ Precision:       0.9766
+ Recall:          0.5342
+ F1 Score:        0.6906
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 387   3 | 0 = COVID
+ 109 125 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 40
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7115
+ Precision:       1.0000
+ Recall:          0.2308
+ F1 Score:        0.3750
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 390   0 | 0 = COVID
+ 180  54 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 41
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.8365
+ Precision:       0.9231
+ Recall:          0.6154
+ F1 Score:        0.7385
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 378  12 | 0 = COVID
+  90 144 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 42
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.8301
+ Precision:       0.9267
+ Recall:          0.5940
+ F1 Score:        0.7240
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 379  11 | 0 = COVID
+  95 139 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 43
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7564
+ Precision:       1.0000
+ Recall:          0.3504
+ F1 Score:        0.5190
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 390   0 | 0 = COVID
+ 152  82 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 44
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7051
+ Precision:       1.0000
+ Recall:          0.2137
+ F1 Score:        0.3521
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 390   0 | 0 = COVID
+ 184  50 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 45
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.8462
+ Precision:       0.9367
+ Recall:          0.6325
+ F1 Score:        0.7551
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 380  10 | 0 = COVID
+  86 148 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 46
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7548
+ Precision:       1.0000
+ Recall:          0.3462
+ F1 Score:        0.5143
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 390   0 | 0 = COVID
+ 153  81 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 47
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7821
+ Precision:       0.9804
+ Recall:          0.4274
+ F1 Score:        0.5952
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 388   2 | 0 = COVID
+ 134 100 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 48
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7756
+ Precision:       0.9796
+ Recall:          0.4103
+ F1 Score:        0.5783
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 388   2 | 0 = COVID
+ 138  96 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 49
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.8542
+ Precision:       0.9133
+ Recall:          0.6752
+ F1 Score:        0.7764
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 375  15 | 0 = COVID
+  76 158 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 50
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7997
+ Precision:       0.9739
+ Recall:          0.4786
+ F1 Score:        0.6418
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 387   3 | 0 = COVID
+ 122 112 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 51
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7500
+ Precision:       1.0000
+ Recall:          0.3333
+ F1 Score:        0.5000
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 390   0 | 0 = COVID
+ 156  78 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 52
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7997
+ Precision:       0.9823
+ Recall:          0.4744
+ F1 Score:        0.6398
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 388   2 | 0 = COVID
+ 123 111 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 53
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7500
+ Precision:       1.0000
+ Recall:          0.3333
+ F1 Score:        0.5000
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 390   0 | 0 = COVID
+ 156  78 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 54
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7628
+ Precision:       1.0000
+ Recall:          0.3675
+ F1 Score:        0.5375
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 390   0 | 0 = COVID
+ 148  86 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 55
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7869
+ Precision:       0.9903
+ Recall:          0.4359
+ F1 Score:        0.6053
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 389   1 | 0 = COVID
+ 132 102 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 56
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7372
+ Precision:       1.0000
+ Recall:          0.2991
+ F1 Score:        0.4605
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 390   0 | 0 = COVID
+ 164  70 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 57
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7837
+ Precision:       1.0000
+ Recall:          0.4231
+ F1 Score:        0.5946
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 390   0 | 0 = COVID
+ 135  99 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 58
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7244
+ Precision:       1.0000
+ Recall:          0.2650
+ F1 Score:        0.4189
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 390   0 | 0 = COVID
+ 172  62 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 59
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.8237
+ Precision:       0.9627
+ Recall:          0.5513
+ F1 Score:        0.7011
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 385   5 | 0 = COVID
+ 105 129 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 60
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7692
+ Precision:       0.9891
+ Recall:          0.3889
+ F1 Score:        0.5583
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 389   1 | 0 = COVID
+ 143  91 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 61
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7484
+ Precision:       0.9873
+ Recall:          0.3333
+ F1 Score:        0.4984
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 389   1 | 0 = COVID
+ 156  78 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 62
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.8413
+ Precision:       0.9299
+ Recall:          0.6239
+ F1 Score:        0.7468
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 379  11 | 0 = COVID
+  88 146 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 63
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7885
+ Precision:       0.9722
+ Recall:          0.4487
+ F1 Score:        0.6140
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 387   3 | 0 = COVID
+ 129 105 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 64
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.6843
+ Precision:       1.0000
+ Recall:          0.1581
+ F1 Score:        0.2731
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 390   0 | 0 = COVID
+ 197  37 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 65
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.8045
+ Precision:       0.9746
+ Recall:          0.4915
+ F1 Score:        0.6534
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 387   3 | 0 = COVID
+ 119 115 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 66
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7853
+ Precision:       0.9808
+ Recall:          0.4359
+ F1 Score:        0.6036
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 388   2 | 0 = COVID
+ 132 102 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 67
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.8253
+ Precision:       0.9433
+ Recall:          0.5684
+ F1 Score:        0.7093
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 382   8 | 0 = COVID
+ 101 133 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 68
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7244
+ Precision:       1.0000
+ Recall:          0.2650
+ F1 Score:        0.4189
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 390   0 | 0 = COVID
+ 172  62 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 69
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7244
+ Precision:       1.0000
+ Recall:          0.2650
+ F1 Score:        0.4189
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 390   0 | 0 = COVID
+ 172  62 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 70
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.8189
+ Precision:       0.9416
+ Recall:          0.5513
+ F1 Score:        0.6954
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 382   8 | 0 = COVID
+ 105 129 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 71
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.8141
+ Precision:       0.9538
+ Recall:          0.5299
+ F1 Score:        0.6813
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 384   6 | 0 = COVID
+ 110 124 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 72
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7564
+ Precision:       0.9881
+ Recall:          0.3547
+ F1 Score:        0.5220
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 389   1 | 0 = COVID
+ 151  83 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 73
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7804
+ Precision:       0.9619
+ Recall:          0.4316
+ F1 Score:        0.5959
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 386   4 | 0 = COVID
+ 133 101 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 74
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.8013
+ Precision:       0.9365
+ Recall:          0.5043
+ F1 Score:        0.6556
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 382   8 | 0 = COVID
+ 116 118 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 75
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7404
+ Precision:       0.9865
+ Recall:          0.3120
+ F1 Score:        0.4740
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 389   1 | 0 = COVID
+ 161  73 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 76
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7131
+ Precision:       1.0000
+ Recall:          0.2350
+ F1 Score:        0.3806
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 390   0 | 0 = COVID
+ 179  55 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 77
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.8173
+ Precision:       0.9478
+ Recall:          0.5427
+ F1 Score:        0.6902
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 383   7 | 0 = COVID
+ 107 127 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 78
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7147
+ Precision:       1.0000
+ Recall:          0.2393
+ F1 Score:        0.3862
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 390   0 | 0 = COVID
+ 178  56 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 79
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7837
+ Precision:       0.9459
+ Recall:          0.4487
+ F1 Score:        0.6087
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 384   6 | 0 = COVID
+ 129 105 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 80
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7340
+ Precision:       1.0000
+ Recall:          0.2906
+ F1 Score:        0.4503
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 390   0 | 0 = COVID
+ 166  68 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 81
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.8029
+ Precision:       0.9744
+ Recall:          0.4872
+ F1 Score:        0.6496
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 387   3 | 0 = COVID
+ 120 114 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 82
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7147
+ Precision:       1.0000
+ Recall:          0.2393
+ F1 Score:        0.3862
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 390   0 | 0 = COVID
+ 178  56 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 83
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7308
+ Precision:       1.0000
+ Recall:          0.2821
+ F1 Score:        0.4400
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 390   0 | 0 = COVID
+ 168  66 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 84
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7436
+ Precision:       0.9868
+ Recall:          0.3205
+ F1 Score:        0.4839
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 389   1 | 0 = COVID
+ 159  75 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 85
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7196
+ Precision:       1.0000
+ Recall:          0.2521
+ F1 Score:        0.4027
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 390   0 | 0 = COVID
+ 175  59 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 86
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.8109
+ Precision:       0.9328
+ Recall:          0.5342
+ F1 Score:        0.6793
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 381   9 | 0 = COVID
+ 109 125 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 87
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7356
+ Precision:       1.0000
+ Recall:          0.2949
+ F1 Score:        0.4554
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 390   0 | 0 = COVID
+ 165  69 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 88
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.8478
+ Precision:       0.9264
+ Recall:          0.6453
+ F1 Score:        0.7607
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 378  12 | 0 = COVID
+  83 151 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 89
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7804
+ Precision:       0.9533
+ Recall:          0.4359
+ F1 Score:        0.5982
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 385   5 | 0 = COVID
+ 132 102 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 90
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.8237
+ Precision:       0.9306
+ Recall:          0.5726
+ F1 Score:        0.7090
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 380  10 | 0 = COVID
+ 100 134 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 91
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7708
+ Precision:       0.9691
+ Recall:          0.4017
+ F1 Score:        0.5680
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 387   3 | 0 = COVID
+ 140  94 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 92
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7532
+ Precision:       0.9651
+ Recall:          0.3547
+ F1 Score:        0.5188
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 387   3 | 0 = COVID
+ 151  83 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 93
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.8446
+ Precision:       0.9102
+ Recall:          0.6496
+ F1 Score:        0.7581
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 375  15 | 0 = COVID
+  82 152 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 94
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.8397
+ Precision:       0.9351
+ Recall:          0.6154
+ F1 Score:        0.7423
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 380  10 | 0 = COVID
+  90 144 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 95
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.8478
+ Precision:       0.9264
+ Recall:          0.6453
+ F1 Score:        0.7607
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 378  12 | 0 = COVID
+  83 151 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 96
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.6939
+ Precision:       1.0000
+ Recall:          0.1838
+ F1 Score:        0.3105
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 390   0 | 0 = COVID
+ 191  43 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 97
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7099
+ Precision:       1.0000
+ Recall:          0.2265
+ F1 Score:        0.3693
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 390   0 | 0 = COVID
+ 181  53 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 98
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.8333
+ Precision:       0.9333
+ Recall:          0.5983
+ F1 Score:        0.7292
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 380  10 | 0 = COVID
+  94 140 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 99
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.6795
+ Precision:       1.0000
+ Recall:          0.1453
+ F1 Score:        0.2537
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 390   0 | 0 = COVID
+ 200  34 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 100
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7901
+ Precision:       0.9328
+ Recall:          0.4744
+ F1 Score:        0.6289
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 382   8 | 0 = COVID
+ 123 111 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 101
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7580
+ Precision:       1.0000
+ Recall:          0.3547
+ F1 Score:        0.5237
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 390   0 | 0 = COVID
+ 151  83 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 102
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7388
+ Precision:       1.0000
+ Recall:          0.3034
+ F1 Score:        0.4656
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 390   0 | 0 = COVID
+ 163  71 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 103
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.8125
+ Precision:       0.9535
+ Recall:          0.5256
+ F1 Score:        0.6777
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 384   6 | 0 = COVID
+ 111 123 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 104
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7564
+ Precision:       0.9881
+ Recall:          0.3547
+ F1 Score:        0.5220
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 389   1 | 0 = COVID
+ 151  83 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 105
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7821
+ Precision:       0.9712
+ Recall:          0.4316
+ F1 Score:        0.5976
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 387   3 | 0 = COVID
+ 133 101 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 106
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7179
+ Precision:       1.0000
+ Recall:          0.2479
+ F1 Score:        0.3973
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 390   0 | 0 = COVID
+ 176  58 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 107
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7276
+ Precision:       1.0000
+ Recall:          0.2735
+ F1 Score:        0.4295
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 390   0 | 0 = COVID
+ 170  64 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 108
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7500
+ Precision:       0.9875
+ Recall:          0.3376
+ F1 Score:        0.5032
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 389   1 | 0 = COVID
+ 155  79 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 109
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7644
+ Precision:       0.9579
+ Recall:          0.3889
+ F1 Score:        0.5532
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 386   4 | 0 = COVID
+ 143  91 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 110
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7228
+ Precision:       1.0000
+ Recall:          0.2607
+ F1 Score:        0.4136
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 390   0 | 0 = COVID
+ 173  61 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 111
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.8462
+ Precision:       0.8966
+ Recall:          0.6667
+ F1 Score:        0.7647
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 372  18 | 0 = COVID
+  78 156 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 112
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7628
+ Precision:       0.9674
+ Recall:          0.3803
+ F1 Score:        0.5460
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 387   3 | 0 = COVID
+ 145  89 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 113
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7131
+ Precision:       1.0000
+ Recall:          0.2350
+ F1 Score:        0.3806
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 390   0 | 0 = COVID
+ 179  55 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 114
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.8237
+ Precision:       0.9429
+ Recall:          0.5641
+ F1 Score:        0.7059
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 382   8 | 0 = COVID
+ 102 132 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 115
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7388
+ Precision:       0.9863
+ Recall:          0.3077
+ F1 Score:        0.4691
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 389   1 | 0 = COVID
+ 162  72 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 116
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7821
+ Precision:       0.9623
+ Recall:          0.4359
+ F1 Score:        0.6000
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 386   4 | 0 = COVID
+ 132 102 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 117
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.8029
+ Precision:       0.9440
+ Recall:          0.5043
+ F1 Score:        0.6574
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 383   7 | 0 = COVID
+ 116 118 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 118
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7099
+ Precision:       1.0000
+ Recall:          0.2265
+ F1 Score:        0.3693
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 390   0 | 0 = COVID
+ 181  53 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 119
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7532
+ Precision:       0.9651
+ Recall:          0.3547
+ F1 Score:        0.5188
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 387   3 | 0 = COVID
+ 151  83 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 120
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7933
+ Precision:       0.9487
+ Recall:          0.4744
+ F1 Score:        0.6325
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 384   6 | 0 = COVID
+ 123 111 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 121
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.8670
+ Precision:       0.8240
+ Recall:          0.8205
+ F1 Score:        0.8223
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 349  41 | 0 = COVID
+  42 192 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 122
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7580
+ Precision:       0.9770
+ Recall:          0.3632
+ F1 Score:        0.5296
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 388   2 | 0 = COVID
+ 149  85 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 123
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7500
+ Precision:       0.9643
+ Recall:          0.3462
+ F1 Score:        0.5094
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 387   3 | 0 = COVID
+ 153  81 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 124
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.8446
+ Precision:       0.9053
+ Recall:          0.6538
+ F1 Score:        0.7593
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 374  16 | 0 = COVID
+  81 153 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 125
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7772
+ Precision:       0.9703
+ Recall:          0.4188
+ F1 Score:        0.5851
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 387   3 | 0 = COVID
+ 136  98 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 126
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.8365
+ Precision:       0.9342
+ Recall:          0.6068
+ F1 Score:        0.7358
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 380  10 | 0 = COVID
+  92 142 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 127
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7420
+ Precision:       0.9867
+ Recall:          0.3162
+ F1 Score:        0.4790
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 389   1 | 0 = COVID
+ 160  74 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 128
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7901
+ Precision:       0.9478
+ Recall:          0.4658
+ F1 Score:        0.6246
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 384   6 | 0 = COVID
+ 125 109 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 129
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.8269
+ Precision:       0.9200
+ Recall:          0.5897
+ F1 Score:        0.7188
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 378  12 | 0 = COVID
+  96 138 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 130
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7532
+ Precision:       0.9545
+ Recall:          0.3590
+ F1 Score:        0.5217
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 386   4 | 0 = COVID
+ 150  84 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 131
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.8397
+ Precision:       0.8941
+ Recall:          0.6496
+ F1 Score:        0.7525
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 372  18 | 0 = COVID
+  82 152 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 132
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.8045
+ Precision:       0.9058
+ Recall:          0.5342
+ F1 Score:        0.6720
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 377  13 | 0 = COVID
+ 109 125 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 133
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7468
+ Precision:       0.9419
+ Recall:          0.3462
+ F1 Score:        0.5062
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 385   5 | 0 = COVID
+ 153  81 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 134
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7131
+ Precision:       1.0000
+ Recall:          0.2350
+ F1 Score:        0.3806
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 390   0 | 0 = COVID
+ 179  55 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 135
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7837
+ Precision:       0.9459
+ Recall:          0.4487
+ F1 Score:        0.6087
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 384   6 | 0 = COVID
+ 129 105 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 136
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7228
+ Precision:       1.0000
+ Recall:          0.2607
+ F1 Score:        0.4136
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 390   0 | 0 = COVID
+ 173  61 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 137
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7308
+ Precision:       1.0000
+ Recall:          0.2821
+ F1 Score:        0.4400
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 390   0 | 0 = COVID
+ 168  66 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 138
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7468
+ Precision:       0.9750
+ Recall:          0.3333
+ F1 Score:        0.4968
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 388   2 | 0 = COVID
+ 156  78 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 139
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7212
+ Precision:       1.0000
+ Recall:          0.2564
+ F1 Score:        0.4082
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 390   0 | 0 = COVID
+ 174  60 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 140
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.8077
+ Precision:       0.9014
+ Recall:          0.5470
+ F1 Score:        0.6809
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 376  14 | 0 = COVID
+ 106 128 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 141
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7644
+ Precision:       0.9579
+ Recall:          0.3889
+ F1 Score:        0.5532
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 386   4 | 0 = COVID
+ 143  91 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 142
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.8381
+ Precision:       0.8982
+ Recall:          0.6410
+ F1 Score:        0.7481
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 373  17 | 0 = COVID
+  84 150 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 143
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.6971
+ Precision:       1.0000
+ Recall:          0.1923
+ F1 Score:        0.3226
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 390   0 | 0 = COVID
+ 189  45 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 144
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7580
+ Precision:       0.9109
+ Recall:          0.3932
+ F1 Score:        0.5493
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 381   9 | 0 = COVID
+ 142  92 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 145
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7019
+ Precision:       0.9800
+ Recall:          0.2094
+ F1 Score:        0.3451
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 389   1 | 0 = COVID
+ 185  49 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 146
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7420
+ Precision:       0.9620
+ Recall:          0.3248
+ F1 Score:        0.4856
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 387   3 | 0 = COVID
+ 158  76 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 147
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.8077
+ Precision:       0.9191
+ Recall:          0.5342
+ F1 Score:        0.6757
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 379  11 | 0 = COVID
+ 109 125 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 148
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7756
+ Precision:       0.9519
+ Recall:          0.4231
+ F1 Score:        0.5858
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 385   5 | 0 = COVID
+ 135  99 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 149
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7260
+ Precision:       0.9846
+ Recall:          0.2735
+ F1 Score:        0.4281
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 389   1 | 0 = COVID
+ 170  64 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 150
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7917
+ Precision:       0.9262
+ Recall:          0.4829
+ F1 Score:        0.6348
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 381   9 | 0 = COVID
+ 121 113 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 151
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7340
+ Precision:       0.9722
+ Recall:          0.2991
+ F1 Score:        0.4575
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 388   2 | 0 = COVID
+ 164  70 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 152
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7788
+ Precision:       0.9364
+ Recall:          0.4402
+ F1 Score:        0.5988
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 383   7 | 0 = COVID
+ 131 103 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 153
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.6907
+ Precision:       1.0000
+ Recall:          0.1752
+ F1 Score:        0.2982
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 390   0 | 0 = COVID
+ 193  41 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 154
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7869
+ Precision:       0.9469
+ Recall:          0.4573
+ F1 Score:        0.6167
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 384   6 | 0 = COVID
+ 127 107 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 155
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7388
+ Precision:       0.9733
+ Recall:          0.3120
+ F1 Score:        0.4725
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 388   2 | 0 = COVID
+ 161  73 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 156
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7051
+ Precision:       0.9808
+ Recall:          0.2179
+ F1 Score:        0.3566
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 389   1 | 0 = COVID
+ 183  51 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 157
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.6971
+ Precision:       1.0000
+ Recall:          0.1923
+ F1 Score:        0.3226
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 390   0 | 0 = COVID
+ 189  45 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 158
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7244
+ Precision:       0.9697
+ Recall:          0.2735
+ F1 Score:        0.4267
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 388   2 | 0 = COVID
+ 170  64 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 159
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7708
+ Precision:       0.9027
+ Recall:          0.4359
+ F1 Score:        0.5879
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 379  11 | 0 = COVID
+ 132 102 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 160
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7869
+ Precision:       0.9316
+ Recall:          0.4658
+ F1 Score:        0.6211
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 382   8 | 0 = COVID
+ 125 109 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 161
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.7548
+ Precision:       0.9551
+ Recall:          0.3632
+ F1 Score:        0.5263
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 386   4 | 0 = COVID
+ 149  85 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnClass) N times
+==================================================================
+Epoch: 162
+
+========================Evaluation Metrics========================
+ # of classes:    2
+ Accuracy:        0.8301
+ Precision:       0.9051
+ Recall:          0.6111
+ F1 Score:        0.7296
+Precision, recall & F1: reported for positive class (class 1 - "Normal") only
+
+
+=========================Confusion Matrix=========================
+   0   1
+---------
+ 375  15 | 0 = COVID
+  91 143 | 1 = Normal
+
+Confusion matrix format: Actual (rowClass) predicted as (columnC
