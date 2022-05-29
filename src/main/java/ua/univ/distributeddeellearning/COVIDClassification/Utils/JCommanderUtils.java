@@ -21,15 +21,16 @@ package ua.univ.distributeddeellearning.COVIDClassification.Utils;
 
 import com.beust.jcommander.JCommander;
 import com.beust.jcommander.ParameterException;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 /**
  * Class for parsing command line arguments
  */
 public class JCommanderUtils {
-
+    private static final Logger log = LoggerFactory.getLogger(JCommanderUtils.class);
     private JCommanderUtils() {
     }
-
     public static void parseArgs(Object obj, String[] args) {
         JCommander jcmdr = new JCommander(obj);
         try {
@@ -38,7 +39,8 @@ public class JCommanderUtils {
             jcmdr.usage();  //User provides invalid input -> print the usage info
             try {
                 Thread.sleep(500);
-            } catch (Exception e2) {
+            } catch (InterruptedException exception) {
+                log.error(exception.getMessage());
             }
             throw e;
         }
