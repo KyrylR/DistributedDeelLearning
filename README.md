@@ -4,15 +4,13 @@ Development of the COVID-19 Disease Prediction and Analysis Application Using Di
 
 ## Description
 
-...
+Клієнтська частина проекту, складається з короткого опису роботи застосунку, та поля, через яке користувач зможе завантажити рентгенівський знімок на сервер та поля для виведення повідомлення, щодо коректності та результату роботи програми. Ось вигляд, сторінки:
 
-[//]: # (## Acknowledgments)
+![Picture1](https://user-images.githubusercontent.com/89979281/171216038-bcd495c5-81d2-4ca3-8ed4-221080c62d6a.png)
 
-[//]: # ()
+Та отримати результат, який надала модель. 
+	Якщо, на запит, приходить файл не у одному з форматів, що підходять для перед обробки в проекті, то у відповідному полі, буде відображене повідомлення та причина помилки.
 
-[//]: # (Inspiration, code snippets, etc.)
-
-[//]: # (* [awesome-readme]&#40;https://github.com/matiassingers/awesome-readme&#41;)
 
 ### Reference Documentation
 
