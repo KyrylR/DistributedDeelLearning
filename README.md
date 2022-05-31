@@ -21,10 +21,12 @@ Development of the COVID-19 Disease Prediction and Analysis Application Using Di
 ### Reference Documentation
 
 For further reference, please consider the following sections:
-
-### Guides
-
-The following guides illustrate how to use some features concretely:
+[1.	Tom M. Mitchell Machine Learning ](https://archive.org/details/machinelearning0000mitc)
+[2.	Машинне навчання ](https://en.wikipedia.org/wiki/Artificial_neural_network)
+[3.	Штучна нейронна мережа ](https://en.wikipedia.org/wiki/Machine_learning)
+[4.	Deep Learning ](http://www.deeplearningbook.org)
+[5.	Chest X-Ray Images (Pneumonia) ](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia.)
+[6.	Згорткова нейронна мережа ](https://en.wikipedia.org/wiki/Convolutional_neural_network.)
 
 ## Authors
 
